@@ -4,3 +4,4 @@ Rencana untuk semester 5
 -daftar magang donk
 -ingin ikut magang di perusahaan swasta
 -mencoba lebih aktif dalam kodingan terutama python
+
