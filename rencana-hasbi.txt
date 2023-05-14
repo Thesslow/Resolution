@@ -2,4 +2,5 @@ Rencana untuk semester 5
 -mendaftar surat rekomendasi MSIB
 -berpartisipasi dalam BANGK!T dari Kampus Merdeka
 -daftar magang donk
+-ingin ikut magang di perusahaan swasta
 -mencoba lebih aktif dalam kodingan terutama python
